@@ -1,0 +1,21 @@
+{
+  "name": "nucamp-website-bootstrap",
+  "version": "1.0.0",
+  "description": "Website for the fictional campsites reveiew site Nucamp",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Jamieson",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
